@@ -1,16 +1,46 @@
 ## Hi there 👋
+# 🚀 **Welcome to My GitHub!**  
 
-<!--
-**ParhamFarasatyar/ParhamFarasatyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://img.shields.io/badge/Python-Expert-blue?logo=python&logoColor=white)  
+![ML](https://img.shields.io/badge/Machine%20Learning-Enthusiast-orange?logo=tensorflow&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-GitHub-black?logo=git&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML-CSS-red?logo=html5&logoColor=white)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 **About Me**
+Hi! I'm **Parham**, a passionate **Computer Engineering student** and **Python Developer**.  
+I love working on **Machine Learning** 🧠, **NLP Projects** 💬, and building clean, scalable software.  
+
+- 🎓 **Background:** Bachelor's in Computer Engineering  
+- 🏆 **Certificates:**  
+  - ✅ Python Professional Certificate  
+- 🔧 **Tech Skills:**  
+  `Python` · `Pandas` · `NumPy` · `scikit-learn` · `PyTorch` · `Git/GitHub` · `HTML/CSS`
+
+---
+
+## 🧠 **Current Focus**
+- 🤖 Learning **Machine Learning & AI**
+- 📊 Strengthening **Linear Algebra & Math**
+- 🧪 Experimenting with **NLP Projects**
+
+---
+
+## 📌 **Highlighted Projects**
+| 🚩 Project | 📝 Description | 🛠️ Tech Stack |
+|-----------|----------------|---------------|
+| **NLP Sentiment Classifier** | Built and fine-tuned sentiment analysis model for Persian datasets | `Python`, `Transformers`, `PyTorch` |
+| **Monte Carlo π Estimation** | Implemented Monte Carlo method to approximate π | `Python`, `Matplotlib`, `Random` |
+| **Matrix Calculator** | CLI-based calculator for matrix operations | `Python`, `NumPy` |
+
+---
+
+## 📫 **Connect With Me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-profile)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/your-username)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:your-email@example.com)
+
+---
+
+⭐ **Feel free to check out my repositories and contribute!**
