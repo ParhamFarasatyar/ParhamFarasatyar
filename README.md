@@ -15,6 +15,7 @@ I love working on **Machine Learning** 🧠, **NLP Projects** 💬, and building
 - 🎓 **Background:** Bachelor's in Computer Engineering  
 - 🏆 **Certificates:**  
   - ✅ Python Professional Certificate  
+  - ✅ Web Design (HTML & CSS)  
 - 🔧 **Tech Skills:**  
   `Python` · `Pandas` · `NumPy` · `scikit-learn` · `PyTorch` · `Git/GitHub` · `HTML/CSS`
 
