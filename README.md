@@ -64,7 +64,7 @@ I build clean, reliable ML systems and data-driven applications using Python. I 
 
 ## 📫 Connect
 
-- LinkedIn: [linkedin.com/in/parhamfarasatyar](https://www.linkedin.com/in/parhamfarasatyar)
+- LinkedIn: [www.linkedin.com/in/parhamfarasatyar](https://www.linkedin.com/in/parhamfarasatyar)
 - GitHub: [github.com/ParhamFarasatyar](https://github.com/ParhamFarasatyar)
 - Email: `pfarasatyar82@gmail.com`
 
