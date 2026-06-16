@@ -25,6 +25,7 @@ I love working on **Machine Learning** 🧠, **NLP Projects** 💬, and building
 - 🤖 Learning **Machine Learning & AI**
 - 📊 Strengthening **Linear Algebra & Math**
 - 🧪 Experimenting with **NLP Projects**
+- 💻 Working more effectivly with agents and AIs (**No vibe-coding**)
 
 ---
 
